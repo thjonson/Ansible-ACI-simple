@@ -1,0 +1,5 @@
+# Tenant variables
+tenant: L3-ansible
+vrf: VRF1
+bd: BD
+app_prof: test
