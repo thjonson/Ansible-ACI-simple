@@ -1,0 +1,10 @@
+bd,bd_subnet,bd_mask,epg,pref
+bd1,1.1.1.1,24,epg1,yes
+bd2,1.1.2.1,24,epg2,yes
+bd3,1.1.3.1,24,epg3,no
+bd4,1.1.4.1,24,epg4,yes
+bd5,1.1.5.1,24,epg5,yes
+bd6,1.1.6.1,24,epg6,no
+bd7,1.1.7.1,24,epg7,yes
+bd8,1.1.8.1,24,epg8,no
+bd9,1.1.9.1,24,epg9,no
